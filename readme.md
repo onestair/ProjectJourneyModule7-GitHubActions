@@ -18,7 +18,7 @@
 * [Git Client 설치](https://git-scm.com/downloads)
 * [Azure Cli](https://docs.microsoft.com/ko-kr/cli/azure/install-azure-cli)
 * [Visual Studio Code](https://code.visualstudio.com/download)
-* [Visual Srudio Code WSL](https://learn.microsoft.com/en-us/windows/wsl/)
+* [Visual Studio Code WSL](https://learn.microsoft.com/en-us/windows/wsl/)
 
 ## 사용 리소스 및 환경
 * Azure App Service
